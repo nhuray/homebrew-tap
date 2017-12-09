@@ -3,7 +3,7 @@ class Gaia < Formula
   homepage "https://github.com/bandsintown/gaia"
   url "https://github.com/bandsintown/gaia/archive/v0.0.6.tar.gz"
   version "v0.0.6"
-  sha256 "8a51df074ac75f350af346c304ef575828cc2ddc068ef6c23b9ac34fbe014a0b"
+  sha256 "95e3be3afd101f3c429a103804de29039b2a4cfb52ae42c2473fe618fedab372"
 
   def install
     bin.install "bin/gaia"
