@@ -1,9 +1,9 @@
 class Gaia < Formula
   desc "A wrapper script for Terraform"
   homepage "https://github.com/bandsintown/gaia"
-  url "https://github.com/bandsintown/gaia/archive/v0.0.13.tar.gz"
-  version "v0.0.13"
-  sha256 "2f43bbf0ad4f090f48b012639f2d6ded2b257305ddccc8a341da1a6ea70d2ee5"
+  url "https://github.com/bandsintown/gaia/archive/v0.0.14.tar.gz"
+  version "v0.0.14"
+  sha256 "52afb4af155853a4cdade9cb34ab2c9c626fe960a113ae05a8790476a1555769"
 
   def install
     bin.install "bin/gaia"
